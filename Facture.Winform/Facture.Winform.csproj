@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "C:\\Users\\Mesmer\\source\\repos\\Facture.Winform\\Facture.Winform.sln",
+    "projects": [
+      "..\\..\\..\\Desktop\\Facture.Winform\\Facture.BLL\\Facture.BLL.csproj",
+      "..\\..\\..\\Desktop\\Facture.Winform\\Facture.BO\\Facture.BO.csproj",
+      "..\\..\\..\\Desktop\\Facture.Winform\\Facture.DAL\\Facture.DAL.csproj",
+      "..\\..\\..\\Desktop\\Facture.Winform\\Facture.Winform\\Facture.Winform.csproj"
+    ]
+  }
+}
